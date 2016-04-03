@@ -21,3 +21,8 @@ a {
     width: 100vw;
 }
 
+.landing {
+    background-size: cover;
+    background: url('/images/notorious.jpg') no-repeat;
+    /*transform: scaleX(-1);*/
+}
