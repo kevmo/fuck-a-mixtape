@@ -1,0 +1,21 @@
+{
+  "name": "fuck-a-mixtape",
+  "description": "An introduction to mixtapes.",
+  "main": "",
+  "authors": [
+    "kevmo <k.james.moore@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kevmo/fuck-a-mixtape",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
