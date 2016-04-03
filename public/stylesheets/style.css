@@ -1,5 +1,6 @@
 body {
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  /*font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;*/
+    font-family: Helvetica;
 }
 
 a {
@@ -39,7 +40,15 @@ a {
 /*}*/
 
 .biggie img {
-    width: 100%;
+    width: 80%;
     position: absolute;
     bottom: 0;
+}
+
+.landing title {
+    
+}
+
+.landing h1 {
+    font-family: helvetica;
 }
