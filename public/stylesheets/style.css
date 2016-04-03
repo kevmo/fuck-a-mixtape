@@ -22,7 +22,24 @@ a {
 }
 
 .landing {
-    background-size: cover;
-    background: url('/images/notorious.jpg') no-repeat;
+    width: 100% !important;
+}
+
+.landing .row, .landing .biggie{
+    height: 100%;
+    position: relative;
+    /*background-size: cover;*/
+    /*background: url('/images/notorious.jpg') no-repeat;*/
     /*transform: scaleX(-1);*/
+}
+
+/*.biggie-wrapper {*/
+    /*position: relative;*/
+    /*height: 100%;*/
+/*}*/
+
+.biggie img {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
 }
